@@ -188,6 +188,9 @@ Software Development • Artificial Intelligence • Data Analytics • Problem 
 Father name : Omparkash Gupta 
 Mother name : Rekha Gupta 
 Address : Bihar , District : Gopalganj , Hathua 
+email : ar3221576@gamil.com
+Contact / Phone : 6206971583 , 7247441437
+
 
 """
 
