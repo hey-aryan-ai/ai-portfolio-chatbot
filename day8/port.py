@@ -191,7 +191,9 @@ Address : Bihar , District : Gopalganj , Hathua
 email : ar3221576@gamil.com
 Contact / Phone : 6206971583 , 7247441437
 
+## HOBBIES 
 
+Playing Cricket • Listening Music • Reading book 
 """
 
 
@@ -207,6 +209,7 @@ class Resume(BaseModel):
     name : str | None = None
     email : str | None = None
     phone : str | None = None
+    contect : str | None = None
     total_experince_years :float | None = None
 
 
@@ -224,6 +227,7 @@ class Resume(BaseModel):
     projects : list[str] = []
     certification : list[str] = []
     interset : list[str]=[]
+    hobbies : list[str] = []
 
 
 resume_schema = Resume.model_json_schema()
